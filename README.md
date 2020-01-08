@@ -25,8 +25,7 @@ These instructions will get you a copy of the project up and running on your loc
 * Mohammed Khursheed Ali Khan
 
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Feel free to fork and add your analysis
 
 ## Acknowledgments
 
